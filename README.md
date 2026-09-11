@@ -22,6 +22,6 @@ A Python-based Student Result Management System.
 
 Watch my complete project demonstration on YouTube:
 
-[Watch Project Video](https://youtu.be/7usrR-8x1jg)
+[Watch Project Video](https://youtu.be/G-6AuaRf-GE?si=oibsjxEB-7SnT1pU)
 
 Thank you for watching!
